@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>compileBitcode</key>
+    <false/>
+    <key>method</key>
+    <string>ad-hoc</string>
+    <key>signingStyle</key>
+    <string>manual</string>
+    <key>signingCertificate</key>
+    <string>Apple Distribution: Erick Daniel Lopez Valenzuela (b566ce13-44fb-40aa-9d8c-f33a8785b081)</string>
+    <key>provisioningProfiles</key>
+    <dict>
+        <key>com.vinreportauto.vin</key>
+        <string>Vin Ad Hoc Distribution Profile</string>
+    </dict>
+    <key>teamID</key>
+    <string>9FLXXGGRC5</string>
+</dict>
+</plist>
